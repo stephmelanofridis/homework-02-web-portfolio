@@ -40,7 +40,7 @@ img {
     font-weight: 400;   
     font-style: normal;
     font-size: 16px;
-    background: var(--black) url("_images/hero-image.jpeg") repeat center;
+    background: var(--black) url("./_images/hero-image.jpeg") repeat center;
     background-size: contain;
 }
 
@@ -144,7 +144,7 @@ nav a:active {
 .profile-image {
     height: 600px;
     width: 100%;
-    background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("_images/portfolio-image-dark.jpg");
+    background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("./_images/portfolio-image-dark.jpg");
     background-size: cover;
     margin-bottom: 50px;
 }
