@@ -383,6 +383,10 @@ footer p {
     .contact-section .flex-container {
         margin-bottom: 40px;
     }
+
+    .contact-section .email-btn {
+        display: inline-block;
+    }
 }
 
 @media screen and (max-width: 1200px) {
