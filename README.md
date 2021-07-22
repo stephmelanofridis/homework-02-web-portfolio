@@ -16,8 +16,8 @@ In this project I have used HTML and CSS to create a simple website to display m
 
 # Links to project
 
-Deployed project: https://stephmelanofridis.github.io/homework-02-web-portfolio/
-Github repository: https://github.com/stephmelanofridis/homework-02-web-portfolio
+* Deployed project: https://stephmelanofridis.github.io/homework-02-web-portfolio/
+* Github repository: https://github.com/stephmelanofridis/homework-02-web-portfolio
 
 # Screenshot of project
 
