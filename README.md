@@ -10,7 +10,7 @@ My Personal Web Development Portfolio includes:
 * Work section displaying completed projects
 * Responsive layout
 
-# Technoologies used
+# Technologies used
 
 In this project I have used HTML and CSS to create a simple website to display my work.
 
