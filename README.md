@@ -23,5 +23,7 @@ In this project I have used HTML and CSS to create a simple website to display m
 
 ![image](https://user-images.githubusercontent.com/82196946/126587885-a60300df-d569-4559-b360-01c0ca957f31.png)
 
+![image](https://user-images.githubusercontent.com/82196946/126595841-3a0fc5d0-0571-4801-87de-9e2ab160fe68.png)
+
 
 
